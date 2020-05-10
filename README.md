@@ -20,6 +20,6 @@
 - Using matrix factorization.
 ## Final Project 
 - **Conversations in TV Shows**  
-[kaggle competition](https://www.kaggle.com/c/ml-2018spring-final-tv-conversation) rank 7  
-[Description](https://docs.google.com/presentation/d/1gNaJQ7VMk4AOYDuTmVyqDpF92eUYEHrFDdnznjp75uE/edit#slide=id.p28)  
-[report](https://github.com/ss900405twtw/ML2018SPRING/blob/master/final/Report.pdf)  
+- [kaggle competition](https://www.kaggle.com/c/ml-2018spring-final-tv-conversation) rank 7  
+- [Description](https://docs.google.com/presentation/d/1gNaJQ7VMk4AOYDuTmVyqDpF92eUYEHrFDdnznjp75uE/edit#slide=id.p28)  
+- [report](https://github.com/ss900405twtw/ML2018SPRING/blob/master/final/Report.pdf)  

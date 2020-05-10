@@ -18,7 +18,8 @@
 ## HW6 
 - Matrix Factorization - Movie Rating
 - Using matrix factorization.
-## Final Project Conversations in TV Shows
+## Final Project 
+- Conversations in TV Shows
 [kaggle competition](https://www.kaggle.com/c/ml-2018spring-final-tv-conversation) rank 7  
-[Description](https://docs.google.com/presentation/d/1gNaJQ7VMk4AOYDuTmVyqDpF92eUYEHrFDdnznjp75uE/edit#slide=id.p28)
+[Description](https://docs.google.com/presentation/d/1gNaJQ7VMk4AOYDuTmVyqDpF92eUYEHrFDdnznjp75uE/edit#slide=id.p28)  
 [report](https://github.com/voidism/ML2018SPRING/blob/master/final/Machine%20Learning%20Final%20Project%20-%20conversations%20in%20TV%20shows.pdf)  
